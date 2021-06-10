@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "479330222025",
+    "firebase_url": "https://ishwarganj-online-shop-default-rtdb.firebaseio.com",
+    "project_id": "ishwarganj-online-shop",
+    "storage_bucket": "ishwarganj-online-shop.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:479330222025:android:24baca83d30badd749b218",
+        "android_client_info": {
+          "package_name": "com.example.ishwarganjonlineshop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "479330222025-rrtvectm0smrb9tdqo4lqipcj6iaab93.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ishwarganjonlineshop",
+            "certificate_hash": "9ee0861696ab297511b0f06d9a78fcc889d7abf0"
+          }
+        },
+        {
+          "client_id": "479330222025-9ioadli3d6i2ra17t7i5edkig6c9btfu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBdxdCAJveMylr9ih-X75BBFv9Qa79yAE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "479330222025-9ioadli3d6i2ra17t7i5edkig6c9btfu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
